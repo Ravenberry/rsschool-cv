@@ -1,0 +1,148 @@
+body {
+  background-color: #76ccb1;
+  @import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@500;700&display=swap");
+  font: normal 16px/1.5em Poppins, sans-serif;
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f9f4f1;
+  border-radius: 10px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  padding: 0 calc(50% - 800px);
+}
+
+.header {
+  background-color: #d0f4e8;
+  margin-top: 0px;
+  max-width: 1000px;
+  text-align: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0 10px 24px 0 rgba(0, 0, 0, 0.08);
+}
+
+.footer {
+  background-color: #bcc0bf;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-flow: row wrap;
+  box-shadow: 0 -10px 24px 0 rgba(0, 0, 0, 0.08);
+  color: #292b29;
+}
+
+.avatar {
+  border-radius: 10px;
+  margin-top: 4px;
+  width: 130px;
+  height: 130px;
+}
+
+.logo {
+  width: 50%;
+  height: 50%;
+}
+
+.header {
+  color: #50524f;
+}
+
+.maintext {
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #d0f4e8;
+  border-radius: 10px;
+  margin: 5px 0px 5px;
+  width: 100%;
+  color: #50524f;
+}
+
+.main {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+.contacts {
+  background-color: #d0f4e8;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 5px 5px 5px 0;
+  max-width: 100%;
+  color: #50524f;
+  max-height: 100%;
+}
+
+.name {
+  background-color: #d0f4e8;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 55px;
+  border-radius: 10px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+  color: #50524f;
+  font-size: 18pt;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.other {
+  background-color: #d0f4e8;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  width: 100%;
+  color: #50524f;
+}
+
+.code {
+  background-color: #d0f4e8;
+  width: 100%;
+
+  margin: 5px 0;
+  border-radius: 10px;
+  text-align: center;
+  color: #50524f;
+}
+
+.codetext {
+  max-width: 1000px;
+  padding: 10px 30px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+b {
+  color: #292b29;
+}
+
+li {
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-family: "Merriweather Sans", sans-serif;
+  font-size: 2em;
+}
