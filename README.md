@@ -1,1 +1,0 @@
-https://Ravenberry.github.io/rsschool-cv/cv
